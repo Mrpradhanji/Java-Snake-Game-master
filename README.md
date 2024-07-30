@@ -1,6 +1,2 @@
 # Java-Snake-Game
-Java Snake game source code
-
-https://zetcode.com/javagames/snake/  
-
-![Snake game screenshot](snake.png)
+Java Snake game simply the snake trying to grab the apple and grows and if the snake touches or bites it's own body then game over
